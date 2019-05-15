@@ -1,6 +1,10 @@
 package p1;
 
 public class B {
-	int b=30;
+int a=10;
+	public static void main(String[] args) {
+		
+
+	}
 
 }
